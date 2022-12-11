@@ -1,5 +1,3 @@
-# ___Curriculum Vitae___
-
 # __Mikhail Naryvonchyk__
 
 ## __Contacts__
@@ -24,6 +22,7 @@ return  a * b
 
 ## __Experience__
 beginner web developer
+
 [CV-task](https://github.com/bel4el/rsschool-cv.git)
 
 ## __Education__
