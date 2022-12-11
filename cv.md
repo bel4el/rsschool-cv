@@ -9,3 +9,19 @@
 
 ## __About Me__
 I am a beginner in learning programming languages, analytical skills and logical thinking are well developed.
+
+## __Skills__
++ Markdown
++ HTML
++ Git
+
+## __Code Example__
+```
+function multiply(a, b){
+return  a * b
+}
+```
+
+## __Experience__
+beginner web developer
+[CV-task](https://github.com/bel4el/rsschool-cv.git)
