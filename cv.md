@@ -25,3 +25,11 @@ return  a * b
 ## __Experience__
 beginner web developer
 [CV-task](https://github.com/bel4el/rsschool-cv.git)
+
+## __Education__
+- 2014 Polessky State University - Department of Economics
+- 2016 Polessky State University - Department of Economics - MBA
+- 2022 start of training at The Rolling Scopes
+
+## __English__
+- __A1__ Beginner
